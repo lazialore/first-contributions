@@ -4888,4 +4888,5 @@ asd
 - [thierry](https://github.com/thieazan) wowowo
 - [fasullo](https://github.com/fasullo90) - My first Contribution
 - [nicolle](https://github.com/nicllebrivio) Contributions lead to progress!
-- [mamma]([https://github.com/omar-eddari](https://github.com/annafabi64)) – Hi
+- [mamma]((https://github.com/annafabi64)) – Hi
+- [lore](https://github.com/lazialore) This is my first contribution on GitHub!
